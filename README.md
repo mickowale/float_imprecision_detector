@@ -19,5 +19,5 @@
 
 ### Running Examples:
   - Run `make` in the test directory
-  - cd ..
+  - `cd ..`
   - `./anayzer [threshold float] test/example[n].ll`
