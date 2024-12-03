@@ -17,7 +17,7 @@
   - Run `make` in the main project directory
   - `./analyzer [threshold float] [ LLVM IR file ]`
 
-### Running Provided Examplea:
+### Running Examples:
   - Run `make` in the test directory
   - cd ..
   - `./anayzer [threshold float] test/example[n].ll`
